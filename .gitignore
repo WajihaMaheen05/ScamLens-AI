@@ -1,0 +1,23 @@
+node_modules
+dist
+.env
+.env.local
+.vercel
+.DS_Store
+*.log
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Backend API
+api/
+
+# System files
+.DS_Store
